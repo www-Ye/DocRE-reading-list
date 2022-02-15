@@ -3,7 +3,7 @@ This is a paper reading list on Document level Relation Extraction.
 
 Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. Any suggestions are welcomed!
 
-## Datasets
+### Datasets
 
 * DocRED, CDR, GDA
 
